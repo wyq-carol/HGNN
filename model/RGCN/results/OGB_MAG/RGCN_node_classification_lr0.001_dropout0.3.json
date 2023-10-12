@@ -1,0 +1,11 @@
+{
+    "train accuracy": 0.37,
+    "train micro f1": 0.37,
+    "train macro f1": 0.1521,
+    "validate accuracy": 0.3586,
+    "validate micro f1": 0.3586,
+    "validate macro f1": 0.1342,
+    "test accuracy": 0.3593,
+    "test micro f1": 0.3593,
+    "test macro f1": 0.1287
+}
